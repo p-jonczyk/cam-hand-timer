@@ -16,8 +16,10 @@ Detection of hands with use of *mediapipe* and *opencv-python*. In addition prog
 1. **PROGRAM RECOGNISE CHOICES (R/P/S) AND COUNT FINGERS ONLY FOR RIGHT HAND**
 2. **PRESS 'Q' TO EXIT**
 3. **RIGHT WAY TO SHOW R/P/S CHOICE**
-<br />
+<br/>
 
+![rps](https://user-images.githubusercontent.com/65196928/141308776-700ef9ad-b3bf-42f5-9e03-d1485c052ca6.png)
+![count](https://user-images.githubusercontent.com/65196928/141308764-0ffd5ee9-791d-4ad7-b57f-4de5b8150946.png)
 <br />
 
 ## HOW TO
